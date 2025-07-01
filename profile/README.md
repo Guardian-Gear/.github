@@ -57,8 +57,8 @@
 
 ## 👨‍💻 Project Team
 
-- **Sahan Perera** – Mobile App Developer (React Native), UI/UX Design  
-- **Sulochana Dananjani** – Embedded Systems & Sensor Integration (ESP32, PCB)  
-- **Induwara Abhisheka** – Firebase Integration, Bluetooth Communication, and Testing
+- **Sahan Perera**   
+- **Sulochana Dananjani**  
+- **Induwara Abhisheka** 
 
 
